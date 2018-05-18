@@ -149,7 +149,7 @@ Run below command line for automated tests of this system
 ```
 
 
-# LICENSE!
+## LICENSE!
 
 CoverFlow is [MIT-licensed](https://github.com/mindinventory1/chat-with-firebase/blob/master/LICENSE)
 
