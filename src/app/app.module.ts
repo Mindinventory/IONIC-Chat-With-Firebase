@@ -11,12 +11,13 @@ import { AngularFireModule } from 'angularfire2';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 
 const config = {
-  apiKey: "AIzaSyCUIQZ1yTF4toyJhfwF2qG3x3nWdWsCsqk",
-  authDomain: "auth-fabca.firebaseapp.com",
-  databaseURL: "https://auth-fabca.firebaseio.com",
-  projectId: "auth-fabca",
-  storageBucket: "auth-fabca.appspot.com",
-  messagingSenderId: "990459860758"
+  apiKey: 'YOUR_APIKEY',
+  authDomain: 'YOUR_AUTH_DOMAIN',
+  databaseURL: 'YOUR_DATABASE_URL',
+  projectId: 'YOUR_PROJECT_ID',
+  storageBucket: 'YOUR_STORAGE_BUCKET',
+  messagingSenderId: "990459860758",
+ 
 }
 
 @NgModule({
