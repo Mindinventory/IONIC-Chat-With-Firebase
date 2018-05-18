@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="852b00fb-9b98-4b91-a3d4-115d9682f432" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,13 +21,13 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="486">
-                <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+                <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
                 <folding>
-                  <marker date="1526621966000" expanded="true" signature="1517:1683" ph="{&quot;apiKey&quot;: 'YOUR_APIKEY'...}" />
-                  <marker date="1526621966000" expanded="true" signature="2884:3028" ph="{...}" />
-                  <marker date="1526621966000" expanded="true" signature="2917:2979" ph="{...}" />
-                  <marker date="1526621966000" expanded="true" signature="2992:3004" ph="{...}" />
-                  <marker date="1526621966000" expanded="true" signature="3216:3228" ph="{...}" />
+                  <marker date="1526621966587" expanded="true" signature="1517:1683" ph="{&quot;apiKey&quot;: 'YOUR_APIKEY'...}" />
+                  <marker date="1526621966587" expanded="true" signature="2884:3028" ph="{...}" />
+                  <marker date="1526621966587" expanded="true" signature="2917:2979" ph="{...}" />
+                  <marker date="1526621966587" expanded="true" signature="2992:3004" ph="{...}" />
+                  <marker date="1526621966587" expanded="true" signature="3216:3228" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -149,7 +149,7 @@
       <workItem from="1526535386960" duration="363000" />
       <workItem from="1526535825497" duration="11526000" />
       <workItem from="1526552918387" duration="1878000" />
-      <workItem from="1526621469940" duration="1381000" />
+      <workItem from="1526621469940" duration="1973000" />
     </task>
     <task id="LOCAL-00001" summary="README file changes.">
       <created>1526537372974</created>
@@ -232,10 +232,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15148000" />
+    <option name="totallyTimeSpent" value="15740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="-4" width="1539" height="904" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -454,13 +455,13 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="486">
-            <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
             <folding>
-              <marker date="1526621966000" expanded="true" signature="1517:1683" ph="{&quot;apiKey&quot;: 'YOUR_APIKEY'...}" />
-              <marker date="1526621966000" expanded="true" signature="2884:3028" ph="{...}" />
-              <marker date="1526621966000" expanded="true" signature="2917:2979" ph="{...}" />
-              <marker date="1526621966000" expanded="true" signature="2992:3004" ph="{...}" />
-              <marker date="1526621966000" expanded="true" signature="3216:3228" ph="{...}" />
+              <marker date="1526621966587" expanded="true" signature="1517:1683" ph="{&quot;apiKey&quot;: 'YOUR_APIKEY'...}" />
+              <marker date="1526621966587" expanded="true" signature="2884:3028" ph="{...}" />
+              <marker date="1526621966587" expanded="true" signature="2917:2979" ph="{...}" />
+              <marker date="1526621966587" expanded="true" signature="2992:3004" ph="{...}" />
+              <marker date="1526621966587" expanded="true" signature="3216:3228" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
