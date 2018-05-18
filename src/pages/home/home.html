@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Login
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-item>
+    <ion-input type="text" name="user_name" placeholder="User Name" [(ngModel)]="user_name"></ion-input>
+  </ion-item>
+  <div padding text-center>
+    <button ion-button outline (click)="login()">Login</button>
+  </div>
+</ion-content>
