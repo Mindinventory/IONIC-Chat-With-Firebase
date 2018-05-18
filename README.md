@@ -148,5 +148,10 @@ Run below command line for automated tests of this system
   $ionic serve
 ```
 
+## LICENSE!
 
+CoverFlow is [MIT-licensed](https://github.com/mindinventory1/chat-with-firebase/master/LICENSE).
+
+## Let us know!
+We’d be really happy if you sent us links to your projects where you use our component. Just send an email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
 
